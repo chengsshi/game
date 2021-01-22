@@ -1,0 +1,48 @@
+f2group fitness[star] -5280.91458272368, run 0
+f2group fitness[star] -5378.21231401039, run 1
+f2group fitness[star] -5206.49053301974, run 2
+f2group fitness[star] -5399.03962480976, run 3
+f2group fitness[star] -5297.15491144431, run 4
+f2group fitness[star] -5269.93860757402, run 5
+f2group fitness[star] -5409.10754050395, run 6
+f2group fitness[star] -5478.99230434244, run 7
+f2group fitness[star] -5375.86799578583, run 8
+f2group fitness[star] -5296.49396266577, run 9
+f2group fitness[star] -5178.7384233673, run 10
+f2group fitness[star] -5218.10377941877, run 11
+f2group fitness[star] -5523.31046351731, run 12
+f2group fitness[star] -5173.91360112978, run 13
+f2group fitness[star] -5284.93110017629, run 14
+f2group fitness[star] -5397.53564337959, run 15
+f2group fitness[star] -5590.82806904958, run 16
+f2group fitness[star] -5315.08666354731, run 17
+f2group fitness[star] -5309.58555290141, run 18
+f2group fitness[star] -5280.62268700035, run 19
+f2group fitness[star] -5396.37912305622, run 20
+f2group fitness[star] -5289.30492338114, run 21
+f2group fitness[star] -5277.95625771002, run 22
+f2group fitness[star] -5144.61792841774, run 23
+f2group fitness[star] -5242.51675288118, run 24
+f2group fitness[star] -5284.87326552251, run 25
+f2group fitness[star] -5392.97512074178, run 26
+f2group fitness[star] -5228.82822185383, run 27
+f2group fitness[star] -5389.24289377199, run 28
+f2group fitness[star] -5341.78460719005, run 29
+f2group fitness[star] -5310.70489888178, run 30
+f2group fitness[star] -5369.64874586567, run 31
+f2group fitness[star] -5285.70376438833, run 32
+f2group fitness[star] -5413.53069858877, run 33
+f2group fitness[star] -5650.94523401913, run 34
+f2group fitness[star] -5400.9773456842, run 35
+f2group fitness[star] -5380.5807533547, run 36
+f2group fitness[star] -5500.1131360601, run 37
+f2group fitness[star] -5321.02198520174, run 38
+f2group fitness[star] -5221.70351457995, run 39
+f2group star 122.1770411 seconds for 40 runs
+f2group star best fitness -5650.94523401913
+f2group star middle fitness -5310.70489888178
+f2group star worst fitness -5144.61792841774
+f2group 40 runs, global star best mean -5337.70693828796
+f2group 40 runs, variance 11662.3083497245
+f2group 40 runs, standard deviation 107.992168001779
+

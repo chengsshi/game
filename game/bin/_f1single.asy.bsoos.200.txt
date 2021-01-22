@@ -1,0 +1,8 @@
+f1single asy bsoos 16513.023673 seconds for 40 runs
+f1single asy bsoos best fitness -7165.25301228064
+f1single asy bsoos middle fitness -6878.2562510697
+f1single asy bsoos worst fitness -6662.4383921363
+f1single 40 runs, asy bsoos best mean -6884.50281241852
+f1single 40 runs, variance 16199.9437259971
+f1single 40 runs, standard deviation 127.278999548225
+

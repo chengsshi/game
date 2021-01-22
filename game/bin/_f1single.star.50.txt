@@ -1,0 +1,48 @@
+f1single fitness[star] -1325.6175772173, run 0
+f1single fitness[star] -1973.03808697864, run 1
+f1single fitness[star] -1233.85413533957, run 2
+f1single fitness[star] -1783.13285045591, run 3
+f1single fitness[star] -1699.47478035348, run 4
+f1single fitness[star] -1650.31204139157, run 5
+f1single fitness[star] -2025.14134127378, run 6
+f1single fitness[star] -1857.48328220366, run 7
+f1single fitness[star] -1741.29647888379, run 8
+f1single fitness[star] -1600.03975494776, run 9
+f1single fitness[star] -1531.11860831966, run 10
+f1single fitness[star] -1532.49754337415, run 11
+f1single fitness[star] -1261.78282897383, run 12
+f1single fitness[star] -2014.43179182301, run 13
+f1single fitness[star] -1877.27403862848, run 14
+f1single fitness[star] -1787.36437403359, run 15
+f1single fitness[star] -1621.82488838237, run 16
+f1single fitness[star] -1702.45849503824, run 17
+f1single fitness[star] -2196.54671202677, run 18
+f1single fitness[star] -1376.59564786409, run 19
+f1single fitness[star] -1902.99163137233, run 20
+f1single fitness[star] -1437.50156869599, run 21
+f1single fitness[star] -2168.30833493272, run 22
+f1single fitness[star] -2001.51152173462, run 23
+f1single fitness[star] -1653.53935402201, run 24
+f1single fitness[star] -1780.89663300036, run 25
+f1single fitness[star] -1583.4053923225, run 26
+f1single fitness[star] -1486.59986218664, run 27
+f1single fitness[star] -2027.56100124899, run 28
+f1single fitness[star] -2122.41167889695, run 29
+f1single fitness[star] -1753.54001735661, run 30
+f1single fitness[star] -1559.90239310036, run 31
+f1single fitness[star] -1940.20701832918, run 32
+f1single fitness[star] -1781.92695016319, run 33
+f1single fitness[star] -1924.2142286017, run 34
+f1single fitness[star] -1671.66691206442, run 35
+f1single fitness[star] -1605.81003343576, run 36
+f1single fitness[star] -1588.83364719966, run 37
+f1single fitness[star] -1622.17565530902, run 38
+f1single fitness[star] -1932.87783005152, run 39
+f1single star 117.8062663 seconds for 40 runs
+f1single star best fitness -2196.54671202677
+f1single star middle fitness -1702.45849503824
+f1single star worst fitness -1233.85413533957
+f1single 40 runs, global star best mean -1733.42917303835
+f1single 40 runs, variance 56902.4964120204
+f1single 40 runs, standard deviation 238.542441531943
+

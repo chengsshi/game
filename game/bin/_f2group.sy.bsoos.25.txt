@@ -1,0 +1,8 @@
+f2group sy bsoos 2009.687871 seconds for 40 runs
+f2group sy bsoos best fitness -4254.09127106049
+f2group sy bsoos middle fitness -4045.51056860937
+f2group sy bsoos worst fitness -3912.92769445399
+f2group 40 runs, sy bsoos best mean -4058.02788888732
+f2group 40 runs, variance 6103.73016624298
+f2group 40 runs, standard deviation 78.1263730518893
+

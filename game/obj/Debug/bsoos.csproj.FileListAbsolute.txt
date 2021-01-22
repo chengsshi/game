@@ -1,0 +1,6 @@
+D:\programme\optimization\brainStorm\bsoos\bsoos\obj\Debug\bsoos.csprojResolveAssemblyReference.cache
+D:\programme\optimization\brainStorm\bsoos\bsoos\bin\Debug\bsoos.exe.config
+D:\programme\optimization\brainStorm\bsoos\bsoos\bin\Debug\bsoos.exe
+D:\programme\optimization\brainStorm\bsoos\bsoos\bin\Debug\bsoos.pdb
+D:\programme\optimization\brainStorm\bsoos\bsoos\obj\Debug\bsoos.exe
+D:\programme\optimization\brainStorm\bsoos\bsoos\obj\Debug\bsoos.pdb

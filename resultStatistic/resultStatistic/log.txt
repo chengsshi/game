@@ -1,0 +1,9 @@
+the smallest value is 40
+the middle value is 40
+the largest value is 41
+the mean value is 40.0416666666667
+the average deviation is 0.0798611111111089
+the variance is 0.0399305555555556
+the standard deviation is 0.199826313471363
+the skewness is 4.58731710925568
+

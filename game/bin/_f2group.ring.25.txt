@@ -1,0 +1,48 @@
+f2group fitness[ring] -4021.13535524014, run 0
+f2group fitness[ring] -4328.08694625037, run 1
+f2group fitness[ring] -3903.29248926768, run 2
+f2group fitness[ring] -3915.2426448995, run 3
+f2group fitness[ring] -4235.57844400661, run 4
+f2group fitness[ring] -4074.38441114428, run 5
+f2group fitness[ring] -3995.03839247821, run 6
+f2group fitness[ring] -4073.75112875148, run 7
+f2group fitness[ring] -4231.52714997014, run 8
+f2group fitness[ring] -3831.4842099582, run 9
+f2group fitness[ring] -4050.44863169131, run 10
+f2group fitness[ring] -3874.92694712631, run 11
+f2group fitness[ring] -4059.69415399672, run 12
+f2group fitness[ring] -4081.87027756852, run 13
+f2group fitness[ring] -3828.42797985087, run 14
+f2group fitness[ring] -4225.96769484293, run 15
+f2group fitness[ring] -3863.65966268048, run 16
+f2group fitness[ring] -4031.98409860793, run 17
+f2group fitness[ring] -3953.76709961202, run 18
+f2group fitness[ring] -4020.29886663918, run 19
+f2group fitness[ring] -4029.63476607904, run 20
+f2group fitness[ring] -4016.67546189106, run 21
+f2group fitness[ring] -3965.36711088987, run 22
+f2group fitness[ring] -3768.07672358941, run 23
+f2group fitness[ring] -3982.31882531767, run 24
+f2group fitness[ring] -4042.89860326665, run 25
+f2group fitness[ring] -3894.60955567837, run 26
+f2group fitness[ring] -3923.10683192813, run 27
+f2group fitness[ring] -3947.67288782211, run 28
+f2group fitness[ring] -3920.09546573126, run 29
+f2group fitness[ring] -3885.43599902528, run 30
+f2group fitness[ring] -4082.43070518305, run 31
+f2group fitness[ring] -3957.87027191749, run 32
+f2group fitness[ring] -3887.48976158432, run 33
+f2group fitness[ring] -3882.52493049247, run 34
+f2group fitness[ring] -4003.71547520122, run 35
+f2group fitness[ring] -4277.56583580043, run 36
+f2group fitness[ring] -4086.08227838449, run 37
+f2group fitness[ring] -4122.02246629011, run 38
+f2group fitness[ring] -3945.52860206257, run 39
+f2group ring 313.898802 seconds for 40 runs
+f2group 40 runs, local ring best fitness -4328.08694625037
+f2group 40 runs, local ring middle fitness -3995.03839247821
+f2group 40 runs, local ring worst fitness -3768.07672358941
+f2group 40 runs, local ring best mean -4005.54222856795
+f2group 40 runs, variance 15948.0581905029
+f2group 40 runs, standard deviation 126.285621471737
+

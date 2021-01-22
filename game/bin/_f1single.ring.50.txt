@@ -1,0 +1,48 @@
+f1single fitness[ring] -1826.11152515786, run 0
+f1single fitness[ring] -1859.54009419775, run 1
+f1single fitness[ring] -1930.66165122188, run 2
+f1single fitness[ring] -1846.19281427974, run 3
+f1single fitness[ring] -1698.65904103314, run 4
+f1single fitness[ring] -1932.52272684515, run 5
+f1single fitness[ring] -1956.21333833126, run 6
+f1single fitness[ring] -1704.07268089522, run 7
+f1single fitness[ring] -1819.45105849394, run 8
+f1single fitness[ring] -1965.42918754557, run 9
+f1single fitness[ring] -1758.43364141689, run 10
+f1single fitness[ring] -1759.47835966608, run 11
+f1single fitness[ring] -1703.18223001378, run 12
+f1single fitness[ring] -1750.95677631034, run 13
+f1single fitness[ring] -1964.71652725857, run 14
+f1single fitness[ring] -1967.42538573865, run 15
+f1single fitness[ring] -1986.98136305553, run 16
+f1single fitness[ring] -1620.70663138916, run 17
+f1single fitness[ring] -1959.55862959766, run 18
+f1single fitness[ring] -1619.4071010418, run 19
+f1single fitness[ring] -2159.99799214517, run 20
+f1single fitness[ring] -1896.89466060187, run 21
+f1single fitness[ring] -1903.8208487922, run 22
+f1single fitness[ring] -2114.7630675036, run 23
+f1single fitness[ring] -1850.54956132982, run 24
+f1single fitness[ring] -1801.494898434, run 25
+f1single fitness[ring] -1757.30531158483, run 26
+f1single fitness[ring] -2040.98981818438, run 27
+f1single fitness[ring] -1766.31887269153, run 28
+f1single fitness[ring] -1711.50337523245, run 29
+f1single fitness[ring] -1718.64902071242, run 30
+f1single fitness[ring] -1726.01023018043, run 31
+f1single fitness[ring] -1704.32651495804, run 32
+f1single fitness[ring] -1902.47285414101, run 33
+f1single fitness[ring] -1702.44596539289, run 34
+f1single fitness[ring] -1844.60986768283, run 35
+f1single fitness[ring] -1683.45733923687, run 36
+f1single fitness[ring] -1607.78831359852, run 37
+f1single fitness[ring] -1891.5101162003, run 38
+f1single fitness[ring] -1909.01615639749, run 39
+f1single ring 97.5700811 seconds for 40 runs
+f1single 40 runs, local ring best fitness -2159.99799214517
+f1single 40 runs, local ring middle fitness -1826.11152515786
+f1single 40 runs, local ring worst fitness -1607.78831359852
+f1single 40 runs, local ring best mean -1833.09063871227
+f1single 40 runs, variance 17465.291048332
+f1single 40 runs, standard deviation 132.156312934086
+
